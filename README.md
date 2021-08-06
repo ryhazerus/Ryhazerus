@@ -25,6 +25,7 @@ I'm a curious person who enjoys figuring out the building blocks of the world, a
 - 💬 Ask me about: anything really, I'm always curious for new things and want to talk
 - 📫 How to reach me: zahyr.seferina@gmail.com
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
+- :notebook: Blog: Follow me on [Medium](https://medium.com/@zahyr)
 
 
 [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/ryhazerus)
