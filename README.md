@@ -14,32 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right'  src="https://source.unsplash.com/random/500x100">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
+
+    
+
+### Hi there I'm Zahyr :lemon:
 
 
-### Hi there I'm Houshuai :lemon:
+[![foxengineer](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.foxengineer.com/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/zahyr.seferina/)
+[![zahyr.seferina](https://img.shields.io/static/v1?label=dev@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:zahyr.seferina@gmail.com)
+  
 
-[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/qq_15807167)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:houshuai0816@gmail.com)
+👨‍💻 26 Years old Developer  
+👨‍🎓 Software Enginer @Marel  
+🚧 **Current Project:** [FreshlyCaught](https://freshlycaught.io)  
 
-🚀Welcome to the rain planet🌎
-
-![houshuai github stats](https://source.unsplash.com/random/800x500)
-
-
-📊 **This week I spent my time on**
-
-<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-
-<!--START_SECTION:waka-->
-```text
-Kotlin      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Other       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-C++         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-YAML        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-```
-<!--END_SECTION:waka-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">-->
 
 
-⭐️ From [LikeRainDay](https://github.com/LikeRainDay)
+<!-- [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/lucafluri) -->
+
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ryhazerus&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
