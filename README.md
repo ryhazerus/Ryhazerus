@@ -19,8 +19,8 @@ I'm a curious person who enjoys figuring out the building blocks of the world, a
 
 - 👨‍💻 Me: 26 Years Old Engineer  
 - 👨‍🎓 Education: Bsc. Software Engineering
-- 🔭 I’m currently working on [FreshlyCaught](https://freshlycaught.io) 
-- 🌱 I’m currently learning: the MERN Stack.
+- 🔭 I’m currently working on [FreshlyCaught](https://freshlycaught.io) (MERN Stack)
+- 🌱 I’m currently learning: Real-time processing with Computer Vision.
 - 👯 I’m looking to collaborate on: cool React/NextJS web-based projects
 - 💬 Ask me about: anything really, I'm always curious for new things and want to talk
 - 📫 How to reach me: zahyr.seferina@gmail.com
