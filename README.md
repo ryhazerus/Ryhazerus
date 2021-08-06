@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zahyr.seferina@gmail.com
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhazerus&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
-
 [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/ryhazerus)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryhazerus&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
