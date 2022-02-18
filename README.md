@@ -13,15 +13,12 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Me: 26 Years Old Engineer  
 - 👨‍🎓 Education: Bsc. Software Engineering
-- 🔭 I’m currently working on [FreshlyCaught](https://freshlycaught.io) (MERN Stack)
-- 🌱 I’m currently learning: Real-time processing with Computer Vision.
+- 🔭 I’m currently working on [FreshlyCaught](https://github.com/ryhazerus/freshly-caught-api) (MERN Stack)
+- 🌱 I’m currently learning: .NET Architecture for web development.
 - 👯 I’m looking to collaborate on: cool React/NextJS web-based projects
 - 💬 Ask me about: anything really, I'm always curious for new things and want to talk
 - 📫 How to reach me: zahyr.seferina@gmail.com
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 - :notebook: Blog: Follow me on [Medium](https://medium.com/@zahyr)
-
-
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/ryhazerus)
 
 
