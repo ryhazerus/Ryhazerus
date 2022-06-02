@@ -11,14 +11,9 @@ Here are some ideas to get you started:
 
 ### Hi there I'm Zahyr :lemon:
 
-- 👨‍💻 Me: 26 Years Old Engineer  
 - 👨‍🎓 Education: Bsc. Software Engineering
 - 🔭 I’m currently working on [FreshlyCaught](https://github.com/ryhazerus/freshly-caught-api) (MERN Stack)
-- 🌱 I’m currently learning: .NET Architecture for web development.
-- 👯 I’m looking to collaborate on: cool React/NextJS web-based projects
+- 🌱 I’m currently working with: .NET Architecture & Angular 2+ for web development.
+- 👯 I’m looking to collaborate on: cool React/NextJS web-based projects in a professional setting
 - 💬 Ask me about: anything really, I'm always curious for new things and want to talk
-- 📫 How to reach me: zahyr.seferina@gmail.com
-- ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 - :notebook: Blog: Follow me on [Medium](https://medium.com/@zahyr)
-
-
