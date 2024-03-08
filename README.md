@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### Hi there I'm Zahyr :lemon:
 
 - 👨‍🎓 Education: Bsc. Software Engineering
-- 🔭 I’m currently working on [Papercuts](https://github.com/ryhazerus/papercuts-shortcuts) (MERN Stack)
+- 🔭 I’m currently working on [Papercuts](https://github.com/ryhazerus/papercuts-shortcuts) (Tauri + React Stack)
 - 🌱 I’m currently working with: Rust & React for web development.
 - 👯 I’m looking to collaborate on: cool React/NextJS web-based projects in a professional setting
 - 💬 Ask me about: anything really, I'm always curious for new things and want to talk
