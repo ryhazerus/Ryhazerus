@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhazerus&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
 
     
 
